@@ -41,3 +41,15 @@ private void FindCouple(IEnumerable<Person> population)
         }
 }
 ``` 
+
+## Education
+
+* Bauman Moscow State Technical University
+    + Applied Informatics
+* Vk Education
+    + iOS App Development
+
+## Languages
+
+* Russian - native speaker.
+* English - in progress, I can keep the conversation going.
